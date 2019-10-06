@@ -11,7 +11,7 @@
 	<groupId>com.climatecloud</groupId>
 	<artifactId>climatecloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>climatecloud</name>
 	<description>Demo project for jenkins</description>
 
